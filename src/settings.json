@@ -1,0 +1,65 @@
+{
+  "components": [
+    {
+      "id": "BannerWithButton",
+      "variables": {
+        "eventDescription": "Don’t miss our upcoming meetup in 2025 where we’ll share the latest insights and trends!",
+        "eventName": "Meetup 2025",
+        "linkText": "Learn More"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into the world of technology with energetic insights and hands-on tutorials.",
+        "title": "Yay: Unleash Your Tech Passion!"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Dive into the world of technology with energetic insights and hands-on tutorials.",
+        "title": "Yay: Unleash Your Tech Passion!"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Dive into the world of technology with energetic insights and hands-on tutorials.",
+        "title": "Yay: Unleash Your Tech Passion!"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into the world of technology with energetic insights and hands-on tutorials.",
+        "title": "Yay: Unleash Your Tech Passion!"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Dive into the world of technology with energetic insights and hands-on tutorials.",
+        "title": "Yay: Unleash Your Tech Passion!"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Dive into the world of technology with energetic insights and hands-on tutorials.",
+        "title": "Yay: Unleash Your Tech Passion!"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into the world of technology with energetic insights and hands-on tutorials.",
+        "title": "Yay: Unleash Your Tech Passion!"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Yay: Unleash Your Tech Passion!",
+  "subtitle": "Dive into the world of technology with energetic insights and hands-on tutorials."
+}
